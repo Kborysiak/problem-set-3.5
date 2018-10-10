@@ -1,0 +1,13 @@
+h1{
+  font-family:courier;
+}
+body{
+  background-color: coral;
+}
+
+table, th, td{
+  border: 1px solid black
+}
+th, td{
+  text-align: center;
+}
