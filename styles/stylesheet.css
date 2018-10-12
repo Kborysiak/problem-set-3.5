@@ -1,15 +1,30 @@
-h1{
-  font-family:courier;
+h1, h2{
+  font-family:serif;
+  font-style: italic;
   text-align: center;
 }
 body{
   background-color: coral;
-  font-family: sans-serif;
-}
 
+
+}
+p{
+  font-family: times;
+  font-weight: 500;
+}
 table, th, td{
   border: 1px solid black
 }
 th, td{
   text-align: center;
+}
+
+*.warning{
+  color: #F0FFFF;
+  font-weight: 800;
+}
+*.img{
+  border: 1px solid white;
+  width: 300px;
+  height: 200px;
 }
