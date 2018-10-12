@@ -1,0 +1,15 @@
+h1{
+  font-family:courier;
+  text-align: center;
+}
+body{
+  background-color: coral;
+  font-family: sans-serif;
+}
+
+table, th, td{
+  border: 1px solid black
+}
+th, td{
+  text-align: center;
+}
