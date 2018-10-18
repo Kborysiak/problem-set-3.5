@@ -61,7 +61,7 @@ More specifically, your website must include and incorporate the following featu
 
 At least 1 externally linked CSS file, which contains the vast majority of your styles.
    Your CSS file(s) should be in a folder named `styles`.
-* At least 3 inline styles per page (for one-off styles that typically aren't replicated elsewhere).
+ At least 3 inline styles per page (for one-off styles that typically aren't replicated elsewhere).
 * At least 3 different [type selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors).
  At least 3 different [class selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors).
 * At least 3 different [ID selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors).
