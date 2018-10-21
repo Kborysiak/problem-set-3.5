@@ -16,10 +16,11 @@ p{
 }
 table, th, td{
   border: 2px solid black;
-}
-th, td{
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 *.warning{
   color: #F0FFFF;
   font-weight: 800;
@@ -49,4 +50,38 @@ img{
 }
 *.center-align{
   text-align: center;
+}
+#bold{
+  font-weight: 900;
+}
+#distinct{
+  color: Crimson; font-weight: 900;
+}
+#read{
+  color: white;
+}
+a:visited{
+  color: darkred;
+}
+a:link{
+  color:blue;
+}
+a[href*="ucvts"]{
+  color: crimson;
+}
+p[class*="center"]{
+  font-weight:500;
+}
+img[class*="long"]{
+  border: 3px solid black;
+}
+div + p{
+  font-weight: 500;
+}
+img > p{
+  font-weight: 900;
+  font-style: oblique;
+}
+div > img{
+  background-color: yellow;
 }
