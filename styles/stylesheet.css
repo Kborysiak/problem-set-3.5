@@ -69,7 +69,7 @@ a:link{
 a[href*="ucvts"]{
   color: crimson;
 }
-p[class*="center"]{
+p[class*="center-align"]{
   font-weight:500;
 }
 img[class*="long"]{
